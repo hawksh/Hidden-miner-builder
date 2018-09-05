@@ -41,3 +41,4 @@
 
 [+] "Build" support of Windows from 7 and above 32\64 bits.
 
+*dev donate 10%
