@@ -1,5 +1,7 @@
 [+] Run from under the user without admin rights;
+
 [+] Applying to the process of the miner and selecting "Open storage location of the file" opens the reference tempo and allocates evb * .tmp (random). Thus, you can not look and find the location of the assembly.
+
 [+] Protection against restart, re-installation, if already working.
 [+] After infection, the assembly starts within a minute.
 [+] The Windows build adventure starts within a minute.
