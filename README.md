@@ -16,28 +16,28 @@
 
 [+] If the user finds the assembly, then for him it will not be clear exe file. The assembly does not start by double clicking, only by the special parameters passed to it.
 
-[+] Auto Backup.
+[+] Autoload.
 
 [+] "Gluing".
 
-Icon [+] Select.
+[+] icon selection
 
 [+] Heavy mining can be selected:
 - 50%
 - 75%
 - 100%
 
-[+] For nicehash and dwarfpool, always put a random name for the vorker.
+[+] For nicehash and dwarfpool, always put a random name for the worker.
 
 [+] Fake error. (can be turned on)
 
 [+] Protection against draining on VirusTotal. (Build option "build" or in GUI files "TWO")
 
-[+] Random name of the vorker. (can be turned on)
+[+] Random name of the worker. (can be turned on)
 
-[+] Registrars through the service https://2no.co/
+[+] Loggers through the service https://2no.co/
 
-[+] Bot via YouTube.
+[+] Bot through the YouTube.
 
-[+] Build all versions of Windows from 7 and above 32 \ 64 bits.
+[+] "Build" support of Windows from 7 and above 32\64 bits.
 
