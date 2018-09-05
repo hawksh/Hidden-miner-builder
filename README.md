@@ -25,7 +25,7 @@ Icon [+] Select.
 [+] Heavy mining can be selected:
 - 50%
 - 75%
-- 100%
+- 100% 
 [+] For nicehash and dwarfpool, always put a random name for the vorker.
 
 [+] Fake error. (can be turned on)
