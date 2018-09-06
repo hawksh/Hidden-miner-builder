@@ -42,3 +42,6 @@
 [+] "Build" support of Windows from 7 and above 32\64 bits.
 
 *dev donate 10%
+
+PASSWORD: 12345
+*ready for assembly
