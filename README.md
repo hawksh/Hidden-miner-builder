@@ -41,6 +41,8 @@
 
 [+] "Build" support of Windows from 7 and above 32\64 bits.
 
+[+] Support SSL/TLS
+
 *dev donate 10%
 
 PASSWORD: 12345
