@@ -37,6 +37,6 @@
 
 [+] Support SSL/TLS
 
-[+] Auto update miner via Tor. (actual for hardforks)
+[+] Auto update miner via Tor. (actual for hard forks)
 
 *dev donate 10%
