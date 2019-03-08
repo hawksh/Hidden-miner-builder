@@ -39,4 +39,6 @@
 
 [+] Auto update miner via Tor. (actual for hard forks)
 
+[+] Removes other hidden miners
+
 *dev donate 10%
