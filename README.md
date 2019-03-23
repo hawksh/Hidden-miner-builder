@@ -42,4 +42,5 @@
 [+] Removes other hidden miners;
 
 *dev donate 10%
+
 The Developer shall not be liable for any damage, direct or indirect damages (including losses from loss of profit, loss of commercial information, etc.) of property or other nature, associated with the use or impossibility of using the Software Product.
