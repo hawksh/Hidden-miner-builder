@@ -6,7 +6,7 @@
 
 [+] After infection, the assembly starts within a minute;
 
-[+] When you open the Task Manager, Process Hacker, Process Explorer, Perfmon, VirusTotal Uploader 2.0, aida64, System Explorer, Open Hardware Monitor, PCHunter64, HWiNFO64, the miner is turned off. Not the 1st process of superfluous does not hang. Runs only after closing the program above for a minute;
+[+] When you open the Task Manager, Process Hacker, Process Explorer, Perfmon, VirusTotal Uploader 2.0, aida64, System Explorer, Open Hardware Monitor, PCHunter64, HWiNFO64, GPU-Z, AnVir, Real Temp, speedfan, Process Lasso, the miner is turned off. Not the 1st process of superfluous does not hang. Runs only after closing the program above for a minute;
 
 [+] Protection from the consideration of the process. If the processes of the miner are completed in some way by the user, they will restart within a minute;
 
@@ -18,10 +18,14 @@
 
 [+] Icon selection;
 
-[+] Heavy mining can be selected:
+[+] Heavy mining on CPU can be selected:
 - 50%
 - 75%
 - 100%
+
+[+] GPU mining on RX 460 and higher, GTX 970 and higher. (starts at idle PC 2 min)
+
+[+] Error tracking at the start of mining on GPU. If there are no actual drivers and etc... And a mining error pops up. The error closes automatically and no longer tries to start mining on GPU.
 
 [+] For nicehash and dwarfpool, always put a random name for the worker;
 
