@@ -45,6 +45,8 @@
 
 [+] Removes other hidden miners;
 
+[+] Self-destruct installation file;
+
 *dev donate 10%
 
 A responsibility:
